@@ -15,7 +15,12 @@ ________________________________________________________________________________
 - Cleaned and preprocessed a research dataset that contains important attributes of the garment manufacturing process and the productivity of the employees.
 - Designed interactive Power BI dashboards, which provide insights on Productivity Patterns, Department and Team Performance Disparities, Incentive-Productivity Correlation, Time Management, and Production Disruption.
 - Tools Used: Excel, Power Query, DAX, Power BI Desktop.
-- ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Key Components
 Dataset: Research Dataset from UC ML Repository. [Link to Dataset](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
 PDF file: Contains Power BI Dashboards with key insights.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+### Additional Information
+![Image](https://github.com/user-attachments/assets/3cf6b30c-6f0a-4704-9c65-cc8999cebfce)
+
+- BDT (Bangladeshi Taka): the currency used by the People's Republic of Bangladesh.
