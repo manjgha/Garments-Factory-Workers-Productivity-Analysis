@@ -24,3 +24,4 @@ ________________________________________________________________________________
 ![Image](https://github.com/user-attachments/assets/3cf6b30c-6f0a-4704-9c65-cc8999cebfce)
 
 - BDT (Bangladeshi Taka): the currency used by the People's Republic of Bangladesh.
+- Productivity Ratio: Actual Productivity / Targeted Productivity
