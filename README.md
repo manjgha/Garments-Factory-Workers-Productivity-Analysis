@@ -17,8 +17,8 @@ ________________________________________________________________________________
 - Tools Used: Excel, Power Query, DAX, Power BI Desktop.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Key Components
-Dataset: Research Dataset from UC ML Repository. [Link to Dataset](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
-PDF file: Contains Power BI Dashboards with key insights.
+- Dataset: Research Dataset from UC ML Repository. [Link to Dataset](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
+- PDF file: Contains Power BI Dashboards with key insights.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Additional Information
 ![Image](https://github.com/user-attachments/assets/3cf6b30c-6f0a-4704-9c65-cc8999cebfce)
